@@ -1,4 +1,4 @@
-# laravklinik
+![resep](https://github.com/user-attachments/assets/91a294f7-1fcb-411b-83c7-e6e863bced85)# laravklinik
 untuk test
 
 #installasi
@@ -34,6 +34,9 @@ untuk test
 ![dokter](https://github.com/user-attachments/assets/29e8bc73-eb02-4ddd-939b-0e2bafc54553)
 
 ![dokter1](https://github.com/user-attachments/assets/b663c16c-85f8-41fb-82eb-8684fbfb48c0)
+
+
+![resep](https://github.com/user-attachments/assets/d53f5355-c947-4edd-8629-5e8496c8659a)
 
 
 ![rty](https://github.com/user-attachments/assets/0eb538fa-f567-4de9-aa88-212d2947f48d)
