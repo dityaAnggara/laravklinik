@@ -1,4 +1,4 @@
 # laravklinik
 untuk test
 
-#instlasi
+#instllasi
