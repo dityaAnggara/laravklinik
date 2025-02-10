@@ -1,4 +1,4 @@
-![resep](https://github.com/user-attachments/assets/91a294f7-1fcb-411b-83c7-e6e863bced85)# laravklinik
+
 untuk test
 
 #installasi
