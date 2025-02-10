@@ -35,6 +35,10 @@ untuk test
 
 ![dokter1](https://github.com/user-attachments/assets/b663c16c-85f8-41fb-82eb-8684fbfb48c0)
 
+![apoteker](https://github.com/user-attachments/assets/0b075ed7-889c-4d86-b03e-748b1f7f731c)
+
+![apoteker1](https://github.com/user-attachments/assets/167ea2f7-2d0d-4c43-a901-7086c8a9ce9e)
+
 
 ![resep](https://github.com/user-attachments/assets/d53f5355-c947-4edd-8629-5e8496c8659a)
 
