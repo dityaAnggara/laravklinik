@@ -22,11 +22,16 @@ untuk test
   
 ![addmin](https://github.com/user-attachments/assets/52bb1179-7eac-4516-b9da-44c6015de006)
 
+
+![pasien](https://github.com/user-attachments/assets/df7c09ab-fd49-48b1-b1f4-f5ab8219d84a)
+
+
 ![rty](https://github.com/user-attachments/assets/0eb538fa-f567-4de9-aa88-212d2947f48d)
 
 ![rty1](https://github.com/user-attachments/assets/bebbad82-5160-4d0a-a319-9897ddf6d0da)
 
 
+![rty2](https://github.com/user-attachments/assets/1039d2cc-e294-4946-bfb2-ea325d2c0908)
 
 
 
