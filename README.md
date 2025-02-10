@@ -11,3 +11,4 @@ untuk test
 
 #program
 
+![awalan](https://github.com/user-attachments/assets/00d91230-f28a-46fa-b493-2e3eca9c28ab)
