@@ -19,3 +19,5 @@ untuk test
 - masukkan
   email : admin@admin.com
   password : 12345
+  
+![addmin](https://github.com/user-attachments/assets/52bb1179-7eac-4516-b9da-44c6015de006)
