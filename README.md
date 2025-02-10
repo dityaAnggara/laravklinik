@@ -21,3 +21,14 @@ untuk test
   password : 12345
   
 ![addmin](https://github.com/user-attachments/assets/52bb1179-7eac-4516-b9da-44c6015de006)
+
+![rty](https://github.com/user-attachments/assets/0eb538fa-f567-4de9-aa88-212d2947f48d)
+
+![rty1](https://github.com/user-attachments/assets/bebbad82-5160-4d0a-a319-9897ddf6d0da)
+
+
+![Uploading rty2.png…]()
+
+
+
+
