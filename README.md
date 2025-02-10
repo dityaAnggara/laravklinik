@@ -27,7 +27,7 @@ untuk test
 ![rty1](https://github.com/user-attachments/assets/bebbad82-5160-4d0a-a319-9897ddf6d0da)
 
 
-![Uploading rty2.png…]()
+
 
 
 
