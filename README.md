@@ -17,3 +17,5 @@ untuk test
 
 
 - masukkan
+  email : admin@admin.com
+  password : 12345
